@@ -111,10 +111,6 @@ To create the effect 3 shadows are used, 1 of them inset and 2
 - Implement bonus version of the game: Play Rock, Paper, Scissors, Lizard, Spock against the computer 
 
 
-## Author
-
-- Frontend Mentor - [@zaticpetru](https://www.frontendmentor.io/profile/zaticpetru)
-- Linkedin - [petru-zatic](https://www.linkedin.com/in/petru-zatic/)
 
 <!-- ## Acknowledgments
 
